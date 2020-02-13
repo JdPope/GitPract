@@ -2,4 +2,7 @@ trying to make
 soooo many conflicts
 please conflict
 plEASE CONFLICT TOO
-We'rSHOULD I CKEEP THIS?e really looking for conflicts
+conflict
+I don't understand why these are not conflicting
+and this one
+This one to should be conflicting
