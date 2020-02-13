@@ -1,5 +1,4 @@
-did not have
-
-
-
-We're really looking for conflicts
+conflict
+I don't understand why these are not conflicting
+and this one
+This one to should be conflicting
